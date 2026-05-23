@@ -62,7 +62,7 @@ export default function AuthForm({ onLogin, onRegister }: AuthFormProps) {
               <Calendar className="w-8 h-8" />
             </div>
             <div>
-              <h1 className="text-2xl font-semibold">MediCitas</h1>
+              <h1 className="text-2xl font-semibold">SaludYa</h1>
               <p className="text-blue-100">Sistema de Gestión de Citas</p>
             </div>
           </div>
